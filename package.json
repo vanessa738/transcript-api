@@ -1,0 +1,9 @@
+{
+  "name": "transcript-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "mammoth": "^1.4.21",
+    "node-fetch": "^3.3.2"
+  }
+}
